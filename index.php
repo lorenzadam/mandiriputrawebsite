@@ -92,9 +92,6 @@
                                         <a href="#services">Layanan</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#portfolio">Portofolio</a>
-                                    </li>
-                                    <li class="nav-item">
                                         <a href="#contact">Kontak</a>
                                     </li>
                                 </ul>
@@ -168,7 +165,7 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <img src="assets/images/our-service-1.jpg" alt="service">
+                                            <img src="assets/images/it-project.svg" alt="service">
                                         </div> <!-- our services image -->
                                     </div>
                                     <div class="col-lg-6">
@@ -196,7 +193,7 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <img src="assets/images/our-service-1.jpg" alt="service">
+                                            <img src="assets/images/pos.svg" alt="service">
                                         </div> <!-- our services image -->
                                     </div>
                                     <div class="col-lg-6">
@@ -218,7 +215,7 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="our-services-image mt-50">
-                                            <img src="assets/images/our-service-1.jpg" alt="service">
+                                            <img src="assets/images/cctv.svg" alt="service">
                                         </div> <!-- our services image -->
                                     </div>
                                     <div class="col-lg-6">
@@ -238,108 +235,6 @@
 
     <!--====== OUR SERVICE PART ENDS ======-->
 
-    <!--====== PROJECT GALLERY PART START ======-->
-
-    <section id="portfolio" class="project-masonry-area pt-115">
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-lg-4">
-                    <div class="section-title pb-20  wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
-                        <h6 class="sub-title">Portofolio</h6>
-                        <h4 class="title">Galery <span>Portofolio Kami.</span></h4>
-                    </div> <!-- section title -->
-                </div>
-                <div class="col-lg-8">
-                    <div class="project-menu text-center text-sm-left text-lg-right pb-20">
-                        <ul>
-                            <li class="active" data-filter="*">Lihat Semua</li>
-                            <li data-filter=".apps">IT Project</li>
-                            <li data-filter=".branding">Solusi Ritel</li>
-                            <li data-filter=".creative">CCTV</li>
-                        </ul>
-                    </div> <!-- project menu -->
-                </div>
-            </div> <!-- row -->
-            <div class="row grid">
-                <div class="col-lg-4 col-sm-6 grid-item apps creative laptop">
-                    <div class="single-gallery gallery-masonry mt-30">
-                        <div class="gallery-image">
-                            <img src="assets/images/protfolio-1.jpg" alt="protfolio">
-                        </div>
-                        <div class="gallery-icon">
-                            <a class="image-popup" href="assets/images/protfolio-1.jpg">
-                                <span></span>
-                            </a>
-                        </div>
-                    </div> <!-- single gallery -->
-                </div>
-                <div class="col-lg-4 col-sm-6 grid-item branding creative">
-                    <div class="single-gallery gallery-masonry mt-30">
-                        <div class="gallery-image">
-                            <img src="assets/images/protfolio-2.jpg" alt="protfolio">
-                        </div>
-                        <div class="gallery-icon">
-                            <a class="image-popup" href="assets/images/protfolio-2.jpg">
-                                <span></span>
-                            </a>
-                        </div>
-                    </div> <!-- single gallery -->
-                </div>
-                <div class="col-lg-4 col-sm-6 grid-item apps branding product">
-                    <div class="single-gallery gallery-masonry mt-30">
-                        <div class="gallery-image">
-                            <img src="assets/images/protfolio-3.jpg" alt="protfolio">
-                        </div>
-                        <div class="gallery-icon">
-                            <a class="image-popup" href="assets/images/protfolio-3.jpg">
-                                <span></span>
-                            </a>
-                        </div>
-                    </div> <!-- single gallery -->
-                </div>
-                <div class="col-lg-4 col-sm-6 grid-item laptop product">
-                    <div class="single-gallery gallery-masonry mt-30">
-                        <div class="gallery-image">
-                            <img src="assets/images/protfolio-5.jpg" alt="protfolio">
-                        </div>
-                        <div class="gallery-icon">
-                            <a class="image-popup" href="assets/images/protfolio-5.jpg">
-                                <span></span>
-                            </a>
-                        </div>
-                    </div> <!-- single gallery -->
-                </div>
-                <div class="col-lg-4 col-sm-6 grid-item branding creative">
-                    <div class="single-gallery gallery-masonry mt-30">
-                        <div class="gallery-image">
-                            <img src="assets/images/protfolio-4.jpg" alt="protfolio">
-                        </div>
-                        <div class="gallery-icon">
-                            <a class="image-popup" href="assets/images/protfolio-4.jpg">
-                                <span></span>
-                            </a>
-                        </div>
-                    </div> <!-- single gallery -->
-                </div>
-                <div class="col-lg-4 col-sm-6 grid-item apps laptop product">
-                    <div class="single-gallery gallery-masonry mt-30">
-                        <div class="gallery-image">
-                            <img src="assets/images/protfolio-6.jpg" alt="protfolio">
-                        </div>
-                        <div class="gallery-icon">
-                            <a class="image-popup" href="assets/images/protfolio-6.jpg">
-                                <span></span>
-                            </a>
-                        </div>
-                    </div> <!-- single gallery -->
-                </div>
-            </div> <!-- row -->
-            
-        </div> <!-- container -->
-    </section>
-
-    <!--====== PROJECT GALLERY PART ENDS ======-->
-
     <!--====== FLOW ======-->
 
     <section data-scroll-index="0" id="flow" class="pricing-area pt-115">
@@ -349,6 +244,7 @@
                     <div class="section-title text-center pb-20 wow fadeInUpBig" data-wow-duration="1s" data-wow-delay="0.2s">
                         <h6 class="sub-title">Alur Kerja Kami</h6>
                         <h4 class="title">Bagaimana Cara Kami <span>Menyelesaikan Proyek.</span></h4>
+                        <img src="assets/images/alur-pengerjaan.png" alt="alur pengerjaan proyek">
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -358,118 +254,6 @@
 
     <!--====== FLOW ======-->
 
-    <!--====== TESTIMONIAL PART START ======-->
-
-    <section id="testimonial" class="testimonial-area pt-70 pb-120">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-xl-5 col-lg-6">
-                    <div class="testimonial-left-content mt-45 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
-                        <div class="section-title">
-                            <h6 class="sub-title">Testimoni</h6>
-                            <h4 class="title">Apa pendapat mereka mengenai kami</h4>
-                        </div> <!-- section title -->
-                        <ul class="testimonial-line">
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-                        <p class="text">Berbagai proyek telah kami selesaikan, ------</p>
-                    </div> <!-- testimonial left content -->
-                </div>
-                <div class="col-lg-6">
-                    <div class="testimonial-right-content mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
-                        <div class="quota">
-                            <i class="lni-quotation"></i>
-                        </div>
-                        <div class="testimonial-content-wrapper testimonial-active">
-                            <div class="single-testimonial">
-                                <div class="testimonial-text">
-                                    <p class="text">“Praesent scelerisque, odio eu fermentum malesuada, nisi arcu volutpat nisl, sit amet convallis nunc turp.”</p>
-                                </div>
-                                <div class="testimonial-author d-sm-flex justify-content-between">
-                                    <div class="author-info d-flex align-items-center">
-                                        <div class="author-image">
-                                            <img src="assets/images/author-1.jpg" alt="author">
-                                        </div>
-                                        <div class="author-name media-body">
-                                            <h5 class="name">John Doe</h5>
-                                            <span class="sub-title">CEO, Alphabet</span>
-                                        </div>
-                                    </div>
-                                    <div class="author-review">
-                                        <ul class="star">
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                        </ul>
-                                        <span class="review">( 7 Reviews )</span>
-                                    </div>
-                                </div>
-                            </div> <!-- single testimonial -->
-                            <div class="single-testimonial">
-                                <div class="testimonial-text">
-                                    <p class="text">“Praesent scelerisque, odio eu fermentum malesuada, nisi arcu volutpat nisl, sit amet convallis nunc turp.”</p>
-                                </div>
-                                <div class="testimonial-author d-sm-flex justify-content-between">
-                                    <div class="author-info d-flex align-items-center">
-                                        <div class="author-image">
-                                            <img src="assets/images/author-2.jpg" alt="author">
-                                        </div>
-                                        <div class="author-name media-body">
-                                            <h5 class="name">John Doe</h5>
-                                            <span class="sub-title">CEO, Alphabet</span>
-                                        </div>
-                                    </div>
-                                    <div class="author-review">
-                                        <ul class="star">
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                        </ul>
-                                        <span class="review">( 7 Reviews )</span>
-                                    </div>
-                                </div>
-                            </div> <!-- single testimonial -->
-                            <div class="single-testimonial">
-                                <div class="testimonial-text">
-                                    <p class="text">“Praesent scelerisque, odio eu fermentum malesuada, nisi arcu volutpat nisl, sit amet convallis nunc turp.”</p>
-                                </div>
-                                <div class="testimonial-author d-sm-flex justify-content-between">
-                                    <div class="author-info d-flex align-items-center">
-                                        <div class="author-image">
-                                            <img src="assets/images/author-3.jpg" alt="author">
-                                        </div>
-                                        <div class="author-name media-body">
-                                            <h5 class="name">John Doe</h5>
-                                            <span class="sub-title">CEO, Alphabet</span>
-                                        </div>
-                                    </div>
-                                    <div class="author-review">
-                                        <ul class="star">
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                            <li><i class="lni-star"></i></li>
-                                        </ul>
-                                        <span class="review">( 7 Reviews )</span>
-                                    </div>
-                                </div>
-                            </div> <!-- single testimonial -->
-                        </div> <!-- testimonial content wrapper -->
-                    </div> <!-- testimonial right content -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== TESTIMONIAL PART ENDS ======-->
 
     <!--====== CONTACT PART START ======-->
 
@@ -478,7 +262,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4">
                     <div class="section-title text-center pb-20 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                        <h6 class="sub-title">Kontak Kamu</h6>
+                        <h6 class="sub-title">Kontak Kami</h6>
                         <h4 class="title">Tetaplah <span>Terhubung.</span></h4>
                     </div> <!-- section title -->
                 </div>
@@ -491,7 +275,7 @@
                                 <i class="lni-map-marker"></i>
                             </div>
                             <div class="contact-info-content media-body">
-                                <p class="text">Jl. Jalan <br> Kota Cirebon, Jawa Barat.</p>
+                                <p class="text">Kota Cirebon, Jawa Barat.</p>
                             </div>
                         </div> <!-- single contact info -->
                     </div>
@@ -501,8 +285,7 @@
                                 <i class="lni-envelope"></i>
                             </div>
                             <div class="contact-info-content media-body">
-                                <p class="text">hello@mpn.com</p>
-                                <p class="text">support@mpn.com</p>
+                                <p class="text">halo@mpn.co.id</p>
                             </div>
                         </div> <!-- single contact info -->
                     </div>
@@ -534,23 +317,8 @@
                             <a href="#">
                                 <img src="assets/images/logo.png" alt="Logo">
                             </a>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, repudiandae! Totam, nemo sed? Provident.</p>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus</p>
+                            <p class="text">Layanan Konsultan IT, Pembuatan Aplikasi, pemasangan dan analisa titik CCTV. </p>
                         </div> <!-- footer about -->
-                    </div>
-                    <div class="col-lg-3 col-sm-6 order-sm-3 order-lg-2">
-                        <div class="footer-link pt-40">
-                            <div class="footer-title">
-                                <h5 class="title">Layanan</h5>
-                            </div>
-                            <ul>
-                                <li><a href="#">IT Project</a></li>
-                                <li><a href="#">Solusi Bisnis Ritel</a></li>
-                                <li><a href="#">CCTV</a></li>
-                                <li><a href="#">Website Company Profile</a></li>
-                                <li><a href="#">Online Store</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
                     </div>
                     <div class="col-lg-3 col-sm-6 order-sm-2 order-lg-4">
                         <div class="footer-contact pt-40">
@@ -558,17 +326,16 @@
                                 <h5 class="title">Informasi Kontak</h5>
                             </div>
                             <div class="contact pt-10">
-                                <p class="text">Jl. Jalan <br>
-                                    Kota Cirebon, Jawa Barat.</p>
-                                <p class="text">support@npm.com</p>
-                                <p class="text">+99 000 555 66 22</p>
+                                <p class="text">Kota Cirebon, Jawa Barat.</p>
+                                <p class="text">halo@npm.co.id</p>
+                                <p class="text">0812 2441 7330</p>
                             </div> <!-- contact -->
                         </div> <!-- footer contact -->
                     </div>
                 </div> <!-- row -->
             </div> <!-- footer widget -->
             <div class="footer-copyright text-center">
-                <p class="text">© 2021 oleh <a href="https://npm.com" rel="nofollow">CV. Mandiri Putra Nusa</a></p>
+                <p class="text">© 2022 oleh <a href="https://npm.co.id" rel="nofollow">CV. Mandiri Putra Nusa</a></p>
             </div>
         </div> <!-- container -->
     </footer>
